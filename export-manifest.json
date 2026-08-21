@@ -1,44 +1,53 @@
 {
   "excluded_path_count": 0,
   "excluded_release_outputs": [
-    "frobenius_pair_extension.pdf"
+    "equivariant-robust-completion.pdf"
   ],
   "excluded_symlinks": [],
   "exporter_blob": "bc16a3f02957af1342e19dfe7fad78e003d8c5dc",
   "files": [
     {
-      "bytes": 138,
+      "bytes": 143,
       "mode": "100644",
       "path": ".gitignore",
       "role": "export-support",
-      "sha256": "549b51c014513cff086819e729f99a9151457e115b6f3c673911ca2c23875a90",
+      "sha256": "6fa2687c7c89de9e417a790a5581ef54ca7d65b711cad366714f6e10dbe8da28",
       "source_blob": null
+    },
+    {
+      "bytes": 1342,
+      "mode": "100644",
+      "path": ".zenodo.json",
+      "rewrites": [],
+      "role": "verification",
+      "sha256": "74566f4652b22a6f78709645fa2f162d709b6b2c71b18f3707bb4df41f1f9081",
+      "source_blob": "09105cea93a8deeb6d7a879775cbc1b2c270ef58"
     },
     {
       "bytes": 310,
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "a751d1d888ad164d495b23618e70a21b10b0eb6d6ad2bf357e8dad3cecac5842",
+      "sha256": "f6ecb2dd25a97b512719831921c927b3ed1cf8224b6b4b3ea55e51c44cb40c92",
       "source_blob": null
     },
     {
-      "bytes": 2301,
+      "bytes": 2431,
       "mode": "100644",
       "path": "README.md",
       "rewrites": [],
       "role": "support",
-      "sha256": "ed203ada27855afea0497f2fa2abfeafc9f955fc0b40cbcd27e1f9269280108e",
-      "source_blob": "e5800d3abe82a8819c6bbefcbc2e07650da0ecfc"
+      "sha256": "be3405f9416f47754ea0b42596437ed79dee6952c1535904cb6239234dc9d060",
+      "source_blob": "91962b66a37c2662cef92f0b01ac84373c512991"
     },
     {
-      "bytes": 41724,
+      "bytes": 3124,
       "mode": "100644",
-      "path": "frobenius_pair_extension.tex",
+      "path": "equivariant-robust-completion.tex",
       "rewrites": [],
       "role": "manuscript-source",
-      "sha256": "86ddf66f79fc2d6bfccb6c1eb51e40a488c5e9f76ceb6246e01337c1fde117ac",
-      "source_blob": "448f010b1004a8f8e996c8d82e70c2688f699a22"
+      "sha256": "ddd4aa00c794512eb1aa264b1bae385e7dac6d17c376db23da7d55d12e6381b7",
+      "source_blob": "0e60e8b44cbd5fc8b6145f6213a843ac39e3f3d6"
     },
     {
       "bytes": 5957,
@@ -48,6 +57,78 @@
       "role": "manuscript-source",
       "sha256": "a3e05303e2922497dbee44e11fe4bdb840f2fb36b0f2054d88ec422be15b55d4",
       "source_blob": "ac1c349525686e76fa1ae5be74915d537aa1133a"
+    },
+    {
+      "bytes": 5537,
+      "mode": "100644",
+      "path": "sections/01-introduction.tex",
+      "rewrites": [],
+      "role": "manuscript-source",
+      "sha256": "74a44f4bcf6a2f6f3e2a501a24fddbfcfa8a9044ce702a91b0e25b8b849c546b",
+      "source_blob": "2d29dd7797d4778bd930df3f50087848dfb1dd70"
+    },
+    {
+      "bytes": 2944,
+      "mode": "100644",
+      "path": "sections/02-quadratic-frobenius.tex",
+      "rewrites": [],
+      "role": "manuscript-source",
+      "sha256": "91f65269d370ed591276a63db70e31cb8e1c6736e572cf3d25cb9d47a9e2504c",
+      "source_blob": "1a2ddea75a99291a89f1cdf99d2102f015376bcf"
+    },
+    {
+      "bytes": 3623,
+      "mode": "100644",
+      "path": "sections/03-pair-extension-criterion.tex",
+      "rewrites": [],
+      "role": "manuscript-source",
+      "sha256": "c860924a891d5feff8f383c46549021d2f603eeba0d32d062df856c5b12ed1f3",
+      "source_blob": "3d28e18caf55a888da41f9c71286e27aecfe5496"
+    },
+    {
+      "bytes": 2485,
+      "mode": "100644",
+      "path": "sections/04-collision-correction.tex",
+      "rewrites": [],
+      "role": "manuscript-source",
+      "sha256": "90aafeef69ca38afc58f77f5d1a79b31f63d0b76a687cdcaad8491a6dff371b7",
+      "source_blob": "0b776782db94f7480832c78d20b7a378bb26d923"
+    },
+    {
+      "bytes": 9080,
+      "mode": "100644",
+      "path": "sections/05-eight-arcs-q25.tex",
+      "rewrites": [],
+      "role": "manuscript-source",
+      "sha256": "cb3dd2edb6858828c4370f3c843d2c610f6bf53e7ea1a9dd0e43cb3dd3d03e4e",
+      "source_blob": "cb4c9891523e3ef7551c08f955c824395e6102b3"
+    },
+    {
+      "bytes": 6492,
+      "mode": "100644",
+      "path": "sections/06-robust-repair.tex",
+      "rewrites": [],
+      "role": "manuscript-source",
+      "sha256": "aca04962b60869f9d669b72c46f90b9ec026cbb73474d9abf03b88118e6ef7fa",
+      "source_blob": "443b9060324157d704aa19086a9442d575b0f43f"
+    },
+    {
+      "bytes": 7034,
+      "mode": "100644",
+      "path": "sections/07-formal-verification.tex",
+      "rewrites": [],
+      "role": "manuscript-source",
+      "sha256": "5500115b6981dd43e92933e70be352282c55ec03c45ed0cffbd6142da650e70d",
+      "source_blob": "3a9776878692851ca79e5d3da9395acccdfdb8cf"
+    },
+    {
+      "bytes": 1275,
+      "mode": "100644",
+      "path": "sections/08-conclusion.tex",
+      "rewrites": [],
+      "role": "manuscript-source",
+      "sha256": "c074f7551a59ac92d60fc7e952b11158e0e16e88c759875d066387aa8429451b",
+      "source_blob": "2494204f850bb6e88408c818ed0733b27f70c714"
     },
     {
       "bytes": 1965,
@@ -70,16 +151,16 @@
   ],
   "github": "tavisrudd/equivariant-robust-completion",
   "main_sources": [
-    "frobenius_pair_extension.tex"
+    "equivariant-robust-completion.tex"
   ],
   "manifest_self_excluded": true,
   "paper_ids": [
     "equivariant_robust_completion"
   ],
-  "paper_registry_sha256": "65c74312b1101055f086d5560d630e046ab8aa6dec5b734a1593501d77f62d1e",
+  "paper_registry_sha256": "cc605b2084a87edab972aa2bdb1633eadc45e95592b27258ccdd0d628613609e",
   "release_output_policy": "excluded",
   "repository": "equivariant-robust-completion",
   "repository_map_sha256": "baa6d273eb1134e2124d94c37fe82cdfc4483b964cce727904a4e9e3344b2cf8",
   "schema_version": 1,
-  "source_commit": "8e2d7568705c8aad21001db30a6e0db403ed11d7"
+  "source_commit": "ea962f14a5bdb6c096c24d4efe83830d87d80902"
 }
