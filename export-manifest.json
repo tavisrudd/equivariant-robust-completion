@@ -44,7 +44,7 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "eb808c9f7356759f994775f6e8ba90b7bfae22b8857ba38f2ceb5c1fc2001908",
+      "sha256": "51f04da961a6610cd95fbc80419def2162a3c6c7a9cd95f385ef807f1497e541",
       "source_blob": null
     },
     {
@@ -53,8 +53,8 @@
       "path": "README.md",
       "rewrites": [],
       "role": "support",
-      "sha256": "f1fde0e8fb4c2f38977e957acee02f23c4a28595c66c85dc280fd4bf6a3449ff",
-      "source_blob": "4b96dcb3f08df7069cd7cf06949291eee5da7641"
+      "sha256": "78487a23087bce12d9ed87677f65ae71df54178edc3b60e688b2307f3b40c6dc",
+      "source_blob": "ca6efd873cab2244fc4f5a9c56e7866e40453eaa"
     },
     {
       "bytes": 139105,
@@ -218,10 +218,10 @@
   "paper_ids": [
     "equivariant_robust_completion"
   ],
-  "paper_registry_sha256": "cc605b2084a87edab972aa2bdb1633eadc45e95592b27258ccdd0d628613609e",
+  "paper_registry_sha256": "98e59703c9318cd0e89d51dac9c0208ff5bce00f6f755da6f4ddcc9b9fd582d1",
   "release_output_policy": "legacy-unspecified",
   "repository": "equivariant-robust-completion",
-  "repository_map_sha256": "275038296ba35c943bf10ba81521c3b02f5bebb01c9ac6b20a66e4e7afd6f27a",
+  "repository_map_sha256": "3e4d1fdaa2b00ebcf7153632b1c0eda21bbccd42027625a3475f23868ab87e86",
   "schema_version": 1,
-  "source_commit": "852a806c7783a025d561cd094016709f88f53dfd"
+  "source_commit": "92f9edc523bfebb8f965e6bf478739a70b0c58c7"
 }
