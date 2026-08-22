@@ -46,17 +46,17 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "d02327a2a54d96655803b3b50a7ef10dec12a2e2eb3e215103cb100c5f91f1a3",
+      "sha256": "0065a6adbe7f00b4d83b8fb37fe2fdeccb6f989fd999cee84fc9422df451be3b",
       "source_blob": null
     },
     {
-      "bytes": 2630,
+      "bytes": 2750,
       "mode": "100644",
       "path": "README.md",
       "rewrites": [],
       "role": "support",
-      "sha256": "d5b2057ba91a592db9063180b4caa317e7da7b52e8f854414f511715d3c55f90",
-      "source_blob": "9edc4e4ad91f287ed733b3c2b5d97dabc973482b"
+      "sha256": "d94abed84e7d9b988966dfc1a6edb4dd2ca023d5a2ea9eeb09312d9a672443d3",
+      "source_blob": "7837528e678448073842c7fa2a49799e62446616"
     },
     {
       "bytes": 3142,
@@ -207,5 +207,5 @@
   "repository": "equivariant-robust-completion",
   "repository_map_sha256": "6d780934fabc1a64bb0240fe05ff5f8a06969444be381a69c35174f6facec9f0",
   "schema_version": 1,
-  "source_commit": "b0e559ff7baa5c3fbd30549d3256a332e5a3c145"
+  "source_commit": "1ed8afc07fd93f885a2dbb3435239cb36145b1cd"
 }
