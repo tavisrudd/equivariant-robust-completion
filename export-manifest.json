@@ -44,7 +44,7 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "8406933713f2d69139ee35a31424e6e9940703ec1571c9fbae710cccfa7acd46",
+      "sha256": "eb808c9f7356759f994775f6e8ba90b7bfae22b8857ba38f2ceb5c1fc2001908",
       "source_blob": null
     },
     {
@@ -201,13 +201,13 @@
       "source_blob": "edd1dcb51240e6b87d59f1ff2fe14033e2c14a27"
     },
     {
-      "bytes": 8535,
+      "bytes": 8515,
       "mode": "100644",
       "path": "verification/verify_release.py",
       "rewrites": [],
       "role": "verification",
-      "sha256": "f0036f6e0526b21bd973043f70eb6625251e35fb4dbffb5da2157caa3cac64fa",
-      "source_blob": "763e0c3b1ab54e1fbfede2c8ee819283721e497c"
+      "sha256": "9d7811963d1f03e3f68f4d79034820bc5e11779c65209b1e4ddbf1bd68f53365",
+      "source_blob": "a0ca60fd3df85ee1fc276308eb5fd41f4de0c689"
     }
   ],
   "github": "tavisrudd/equivariant-robust-completion",
@@ -223,5 +223,5 @@
   "repository": "equivariant-robust-completion",
   "repository_map_sha256": "275038296ba35c943bf10ba81521c3b02f5bebb01c9ac6b20a66e4e7afd6f27a",
   "schema_version": 1,
-  "source_commit": "6f3cbf68066a9afd7a2fb3ac0cf083b8283070ef"
+  "source_commit": "852a806c7783a025d561cd094016709f88f53dfd"
 }
