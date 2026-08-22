@@ -1,6 +1,6 @@
 # Export provenance
 
-- Source snapshot commit: `0a2924c560f556bc8d61bce9625ace08875d272e`
+- Source snapshot commit: `b0e559ff7baa5c3fbd30549d3256a332e5a3c145`
 - Repository identity: `tavisrudd/equivariant-robust-completion`
 - Export method: deterministic, content-addressed source materialization.
 - File hashes and source blob identities are recorded in `export-manifest.json`.

@@ -46,7 +46,7 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "6ec9a056b798005cc745314dfa4d3b2305853c5995ba3e9fbdce282b3ad1fad8",
+      "sha256": "d02327a2a54d96655803b3b50a7ef10dec12a2e2eb3e215103cb100c5f91f1a3",
       "source_blob": null
     },
     {
@@ -140,22 +140,22 @@
       "source_blob": "bb9e73537b80ed471507fed5377801884f8db231"
     },
     {
-      "bytes": 11910,
+      "bytes": 13292,
       "mode": "100644",
       "path": "sections/05-eight-arcs-q25.tex",
       "rewrites": [],
       "role": "manuscript-source",
-      "sha256": "6bd6422fd33d8036a783750efba32c54ee7e485aa2f2395391e0b7520c72d1f9",
-      "source_blob": "beb7dd40fedffd081e223734fb16b497418b1b52"
+      "sha256": "8a0811866de9ca4f604c2358f6e3e4fcc06e85120c6256c230dd6c9cdb7560a5",
+      "source_blob": "83d0bd0d5a154fb62b5ec6ccae25c7f32b598150"
     },
     {
-      "bytes": 6484,
+      "bytes": 6722,
       "mode": "100644",
       "path": "sections/06-robust-repair.tex",
       "rewrites": [],
       "role": "manuscript-source",
-      "sha256": "0e0bb2ccaab03829e01817ba36f11626abee3a9ca81be6210fea9c8eca329cba",
-      "source_blob": "02b066ffc4f21c53f746d26b5614b07460c5d6fe"
+      "sha256": "8833825b6784c88802465e4bda6b89fa79977ceb8619cc8c797c9f487c1d44e8",
+      "source_blob": "a3ee845690a03193918e690312b7a30bc53c8ac2"
     },
     {
       "bytes": 8376,
@@ -207,5 +207,5 @@
   "repository": "equivariant-robust-completion",
   "repository_map_sha256": "6d780934fabc1a64bb0240fe05ff5f8a06969444be381a69c35174f6facec9f0",
   "schema_version": 1,
-  "source_commit": "0a2924c560f556bc8d61bce9625ace08875d272e"
+  "source_commit": "b0e559ff7baa5c3fbd30549d3256a332e5a3c145"
 }
