@@ -1,17 +1,15 @@
 {
   "excluded_path_count": 0,
-  "excluded_release_outputs": [
-    "equivariant-robust-completion.pdf"
-  ],
+  "excluded_release_outputs": [],
   "excluded_symlinks": [],
   "exporter_blob": "bc16a3f02957af1342e19dfe7fad78e003d8c5dc",
   "files": [
     {
-      "bytes": 143,
+      "bytes": 108,
       "mode": "100644",
       "path": ".gitignore",
       "role": "export-support",
-      "sha256": "6fa2687c7c89de9e417a790a5581ef54ca7d65b711cad366714f6e10dbe8da28",
+      "sha256": "8aec252fe1e8e2a04924eeac30581deea8368b151c9e82d6601a1d6393be8b27",
       "source_blob": null
     },
     {
@@ -46,7 +44,7 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "0065a6adbe7f00b4d83b8fb37fe2fdeccb6f989fd999cee84fc9422df451be3b",
+      "sha256": "06809193b1f06fd77ae2a8d5d9c87ea77fc24808a2b579e32529369b211687ea",
       "source_blob": null
     },
     {
@@ -57,6 +55,15 @@
       "role": "support",
       "sha256": "d94abed84e7d9b988966dfc1a6edb4dd2ca023d5a2ea9eeb09312d9a672443d3",
       "source_blob": "7837528e678448073842c7fa2a49799e62446616"
+    },
+    {
+      "bytes": 139478,
+      "mode": "100644",
+      "path": "equivariant-robust-completion.pdf",
+      "rewrites": [],
+      "role": "release-output",
+      "sha256": "a4f2de94a1969efc30218b158b1e76f29c27fb976238a33ae0c070a639b0e98d",
+      "source_blob": "42f9af1a7fbc9471acc86134692f69536b0637e4"
     },
     {
       "bytes": 3142,
@@ -203,9 +210,9 @@
     "equivariant_robust_completion"
   ],
   "paper_registry_sha256": "cc605b2084a87edab972aa2bdb1633eadc45e95592b27258ccdd0d628613609e",
-  "release_output_policy": "excluded",
+  "release_output_policy": "legacy-unspecified",
   "repository": "equivariant-robust-completion",
-  "repository_map_sha256": "6d780934fabc1a64bb0240fe05ff5f8a06969444be381a69c35174f6facec9f0",
+  "repository_map_sha256": "275038296ba35c943bf10ba81521c3b02f5bebb01c9ac6b20a66e4e7afd6f27a",
   "schema_version": 1,
-  "source_commit": "1ed8afc07fd93f885a2dbb3435239cb36145b1cd"
+  "source_commit": "c79e035f35e7819ccd01ad979f5a18af51223d3d"
 }
